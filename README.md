@@ -4,7 +4,7 @@ This repository contains resources related to the study and implementation of AI
 
 ## Files
 
-### 1. [Karan_Zaveri_GEN_AI_How_can_AI_systems_be_made_to_understand_and_process_abstract_concepts.pdf](Karan_Zaveri_GEN_AI_How_can_AI_systems_be_made_to_understand_and_process_abstract_concepts.pdf)
+### 1. [Karan_Zaveri_How_can_AI_systems_be_made_to_understand_and_process_abstract_concepts.pdf](Karan_Zaveri_How_can_AI_systems_be_made_to_understand_and_process_abstract_concepts.pdf)
    - **Description:** 
      - This PDF file is a comprehensive review paper by Karan Zaveri that explores current approaches and future directions for enabling AI systems to understand and process abstract concepts. It covers various methodologies such as symbolic AI, neural networks, hybrid models, and cognitive architectures, as well as techniques for enhancing AI's understanding of abstract concepts.
    - **Abstract:**
